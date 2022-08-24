@@ -1,3 +1,29 @@
 body {
-    
+    margin: 0;
+    background-color: #2C2B3D;
+    color: white;
+}
+
+.page {
+    width: 1280px;
+    margin: 65px auto 0;
+    height: 720px
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+
+    gap: 64px;
+    text-decoration: none;
+
+
 }
