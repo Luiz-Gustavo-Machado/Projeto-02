@@ -15,6 +15,7 @@ header {
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
+    margin-bottom: 100px;
 
 }
 
@@ -29,6 +30,20 @@ ul {
 }
 
 ul li a {
+    font-size: 14px;
+
     color: #fff;
-    text-decoration: none.
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p { 
+    font-size: 16px;
+}
+
+span {
+    color: #00BFA6 ;
 }
