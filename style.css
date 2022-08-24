@@ -3,13 +3,13 @@ body {
     background-color: #2C2B3D;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
-    padding: 0;
+
+    min-height: 100vh;
 }
 
 .page {
     width: 1280px;
     margin: 65px auto 0;
-    height: 720px
 }
 
 nav {
@@ -17,7 +17,6 @@ nav {
     justify-content: space-between;
     align-items: center;
     margin: 81px 89px 100px 89px;
-   
 }
 
 ul {
@@ -45,6 +44,7 @@ h1 {
     font-size: 36px;
     line-height: 40px;
     font-family: 'JetBrains Mono', monospace;
+   
     margin-bottom: 59px;
 }
 
@@ -64,23 +64,35 @@ main {
     justify-content:space-between;
     align-items: center;
     flex-direction: row-reverse;
-
-    margin-left: 99px;
-    margin-right: 89px;
+    margin: 101px 89px 157px 99px;
 }
 
 footer {
     font-family: 'JetBrains Mono';
     font-size: 14px;
     line-height: 28px;
+    text-align: center;
 }
 
 footer a {
     font-style: normal;
     list-style: none;
-    color: #fff; 
-}
+    color: #fff;   
+} 
 
 footer a:hover {
     font-weight: bold;
+}
+
+#line {
+    width: 568px;
+    height: 0px;
+    border: 1px solid #00BFA6;
+    margin: 157px auto 27px;
+}
+
+#lock { 
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
 }
