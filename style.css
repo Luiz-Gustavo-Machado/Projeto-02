@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: #2C2B3D;
     color: #fff;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .page {
@@ -10,34 +11,40 @@ body {
     height: 720px
 }
 
-header {
+nav {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    flex-direction: row;
-    margin-bottom: 100px;
+    align-items: center;
 
+    margin-bottom: 100px;
 }
 
 ul {
-    list-style: none;
     display: flex;
-
     gap: 64px;
+    list-style: none;
     text-decoration: none;
+    margin: 0;
+    padding: 0;
 
 
 }
+
+ul li a:hover {
+    font-weight: bold;
+} 
 
 ul li a {
     font-size: 14px;
 
     color: #fff;
     text-decoration: none;
+    font-family: 'JetBrains Mono', monospace;
 }
 
 h1 {
     font-size: 36px;
+    font-family: 'JetBrains Mono', monospace;
 }
 
 p { 
