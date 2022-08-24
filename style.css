@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #2C2B3D;
-    color: white;
+    color: #fff;
 }
 
 .page {
@@ -26,4 +26,9 @@ ul {
     text-decoration: none;
 
 
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none.
 }
