@@ -3,6 +3,7 @@ body {
     background-color: #2C2B3D;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
+    padding: 0;
 }
 
 .page {
@@ -15,14 +16,14 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
-    margin-bottom: 100px;
+    margin: 81px 89px 100px 89px;
+   
 }
 
 ul {
     display: flex;
     gap: 64px;
-    list-style: none;
+    list-style: none; 
     text-decoration: none;
     margin: 0;
     padding: 0;
@@ -44,13 +45,32 @@ ul li a {
 
 h1 {
     font-size: 36px;
+    line-height: 40px;
     font-family: 'JetBrains Mono', monospace;
+    margin-bottom: 59px;
 }
 
 p { 
     font-size: 16px;
+    text-align: center;
+    line-height: 28px;
+    color: #C2C2C2;
 }
 
 span {
     color: #00BFA6 ;
+}
+
+main {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+
+    margin-left: 99px;
+    margin-right: 89px;
+    
+   
+   
+
 }
