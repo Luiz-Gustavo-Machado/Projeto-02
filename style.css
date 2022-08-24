@@ -27,8 +27,6 @@ ul {
     text-decoration: none;
     margin: 0;
     padding: 0;
-
-
 }
 
 ul li a:hover {
@@ -69,8 +67,20 @@ main {
 
     margin-left: 99px;
     margin-right: 89px;
-    
-   
-   
+}
 
+footer {
+    font-family: 'JetBrains Mono';
+    font-size: 14px;
+    line-height: 28px;
+}
+
+footer a {
+    font-style: normal;
+    list-style: none;
+    color: #fff; 
+}
+
+footer a:hover {
+    font-weight: bold;
 }
