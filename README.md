@@ -1,6 +1,6 @@
-<h1>Este Projeto foi desenvolvido no Stage 2 do Explore, um projeto exclusivo montado após a aula sendo espelhado do Figma.<h1>
+<h1>Este Projeto foi desenvolvido no Stage 2 do Explore<h1>
   
-<h2>Aprendizados proposto no "Stage 2 do Explore Rocketseat", o desafio era criar esta pagiona utilizando HTML e CSS puros a partir de um design no Figma.</h2>
+<p>Aprendizados proposto no "Stage 2 do Explore Rocketseat", o desafio era criar esta pagiona utilizando HTML e CSS puros a partir de um design no Figma.</p>
 
 <h3>Stack utilizada</h3>
   
