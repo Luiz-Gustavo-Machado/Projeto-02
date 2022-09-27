@@ -1,8 +1,8 @@
 
   
-## Aprendizados proposto no "Stage 2 do Explore Rocketseat", o desafio era criar esta pagiona utilizando HTML e CSS puros a partir de um design no Figma.
+> Aprendizados proposto no "Stage 2 do Explore Rocketseat", o desafio era criar esta pagiona utilizando HTML e CSS puros a partir de um design no Figma.
 
-# Stack utilizada 
+### Stack utilizada 
   
 > Front-end: HTML & CSS
 
